@@ -1,0 +1,5 @@
+# Ignore files and folders
+/.idea
+.idea/
+out/
+*.iml
